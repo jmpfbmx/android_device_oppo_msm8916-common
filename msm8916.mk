@@ -522,5 +522,3 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.usb.id.ums=2286 \
     ro.usb.id.ums_adb=2285 \
     ro.usb.vid=2970
-
-$(call inherit-product, vendor/oppo/A37/A37-vendor.mk)
